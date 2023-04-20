@@ -1,0 +1,11 @@
+.button__text {
+  height: 22px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  text-decoration: none;
+  /* identical to box height */
+
+  color: #ffffff;
+}

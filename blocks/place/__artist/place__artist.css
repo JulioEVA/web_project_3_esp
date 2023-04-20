@@ -1,0 +1,13 @@
+.place__artist {
+  margin: 0;
+  max-width: 456px;
+  padding-bottom: 48px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height, or 122% */
+
+  color: #ffffff;
+}

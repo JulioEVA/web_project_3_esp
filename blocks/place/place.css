@@ -1,0 +1,9 @@
+.place {
+  margin: 0;
+  width: 984px;
+  min-height: 756px;
+  max-height: 830px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,7 @@
+.texts {
+  display: flex;
+  width: 484px;
+  height: 464px;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
