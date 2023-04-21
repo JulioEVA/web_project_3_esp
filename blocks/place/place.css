@@ -2,8 +2,9 @@
   margin: 0;
   width: 984px;
   min-height: 756px;
-  max-height: 830px;
+  max-height: 900px;
   display: flex;
   flex-direction: column;
+  align-content: space-between;
   flex-wrap: wrap;
 }
