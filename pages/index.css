@@ -25,6 +25,9 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/_size/place_size_l.css);
 @import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__title/_size/place__title_size_s.css);
+@import url(../blocks/place/__title/_size/place__title_size_l.css);
+
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__artist/place__artist.css);

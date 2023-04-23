@@ -1,8 +1,8 @@
 .place__title {
-  display: inline;
   margin: 0;
   padding: 92px 40px 48px 0px;
   max-width: 460px;
+  text-overflow: clip;
 
   font-style: normal;
   font-weight: 900;
