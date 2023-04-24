@@ -20,6 +20,7 @@
 @import url(../blocks/quote/__author/quote__author.css);
 
 @import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__image/gallery__image.css);
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
@@ -35,6 +36,7 @@
 @import url(../blocks/place/__text/place__text.css);
 @import url(../blocks/texts/texts.css);
 @import url(../blocks/texts/_size/texts_size_l.css);
+@import url(../blocks/texts/_size/texts_size_m.css);
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/__text/button__text.css);
 
@@ -47,7 +49,3 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
-
-/* * {
-  border: solid red 1px;
-} */

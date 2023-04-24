@@ -2,3 +2,10 @@
   padding-top: 199px;
   text-decoration: none;
 }
+
+@media screen and (max-width: 986px) and (min-width: 320px) {
+  .place__website {
+    padding-top: 89px;
+    width: 295px;
+  }
+}

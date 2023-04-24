@@ -5,6 +5,14 @@
   max-height: 900px;
   display: flex;
   flex-direction: column;
-  align-content: space-between;
   flex-wrap: wrap;
+}
+
+@media screen and (max-width: 986px) and (min-width: 320px) {
+  .place {
+    width: 720px;
+    margin: 0 auto;
+    min-height: 600px;
+    max-height: 745px;
+  }
 }
