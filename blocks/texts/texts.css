@@ -1,17 +1,15 @@
 .texts {
   display: flex;
   width: 484px;
-  padding-top: 48px;
   flex-wrap: wrap;
-  min-height: 464px;
+  min-height: 764px;
   align-content: space-between;
 }
 
 @media screen and (max-width: 986px) and (min-width: 320px) {
   .texts {
-    padding-top: 24px;
     max-width: 352px;
-    min-height: 508px;
+    min-height: 657px;
     font-size: 16px;
   }
 }

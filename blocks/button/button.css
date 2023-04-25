@@ -6,7 +6,12 @@
   gap: 10px;
   max-width: 315px;
   text-decoration: none;
+  transition: background 0.5s;
 
   background: #0278fe;
   border-radius: 4px;
+}
+
+.button:hover {
+  background: #0063d2;
 }

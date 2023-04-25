@@ -1,6 +1,10 @@
+.texts_size_m {
+  min-height: 779px;
+}
+
 @media screen and (max-width: 986px) and (min-width: 320px) {
   .texts_size_m {
-    min-height: 546px;
-    padding-top: 55px;
+    min-height: 722px;
+    align-content: space-evenly;
   }
 }
