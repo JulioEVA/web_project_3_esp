@@ -1,9 +1,9 @@
 .texts_size_s {
-  min-height: 714px;
+  min-height: 457px;
 }
-@media screen and (max-width: 986px) and (min-width: 320px) {
+@media screen and (max-width: 986px) {
   .texts_size_s {
-    min-height: 600px;
+    min-height: 515px;
     padding-top: 16px;
   }
 }

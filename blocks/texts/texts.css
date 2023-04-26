@@ -2,14 +2,23 @@
   display: flex;
   width: 484px;
   flex-wrap: wrap;
-  min-height: 764px;
-  align-content: space-between;
+  min-height: 516px;
+  max-height: 800px;
+  align-content: space-evenly;
 }
 
-@media screen and (max-width: 986px) and (min-width: 320px) {
+@media screen and (max-width: 986px) {
   .texts {
     max-width: 352px;
-    min-height: 657px;
-    font-size: 16px;
+    min-height: 512px;
+  }
+}
+
+@media screen and (max-width: 721px) {
+  .texts {
+    max-width: 288px;
+    min-height: 640px;
+    align-content: space-between;
+    margin: 0 auto;
   }
 }

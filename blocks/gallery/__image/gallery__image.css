@@ -4,3 +4,10 @@
     height: 264px;
   }
 }
+
+@media screen and (max-width: 721px) {
+  .gallery__image {
+    width: 288px;
+    height: 216px;
+  }
+}

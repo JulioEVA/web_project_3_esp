@@ -10,3 +10,10 @@
 
   color: #ffffff;
 }
+
+@media screen and (max-width: 721px) {
+  .place__artist {
+    max-width: 288px;
+    padding-top: 8px;
+  }
+}

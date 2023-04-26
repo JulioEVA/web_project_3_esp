@@ -11,3 +11,12 @@
 
   color: #ffffff;
 }
+
+@media screen and (max-width: 721px) {
+  .header__subtitle {
+    max-width: 288px;
+    font-size: 16px;
+    line-height: 1.25;
+    padding: 60px 0 40px;
+  }
+}

@@ -9,3 +9,11 @@
 
   color: #ffffff;
 }
+
+@media screen and (max-width: 721px) {
+  .button__text {
+    font-size: 14px;
+    line-height: 17px;
+    height: 17px;
+  }
+}

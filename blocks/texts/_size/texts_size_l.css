@@ -1,9 +1,16 @@
 .texts_size_l {
-  min-height: 970px;
+  min-height: 748px;
 }
 
-@media screen and (max-width: 986px) and (min-width: 320px) {
+@media screen and (max-width: 986px) {
   .texts_size_l {
-    min-height: 893px;
+    min-height: 768px;
+  }
+}
+
+@media screen and (max-width: 721px) {
+  .texts_size_l {
+    min-height: 922px;
+    align-content: space-evenly;
   }
 }

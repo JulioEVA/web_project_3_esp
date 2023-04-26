@@ -12,3 +12,12 @@
     padding-right: 28px;
   }
 }
+
+@media screen and (max-width: 721px) {
+  .place__image {
+    width: 320px;
+    height: 320px;
+    padding: 0;
+    order: 2;
+  }
+}

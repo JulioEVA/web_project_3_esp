@@ -9,3 +9,9 @@
 
   color: #ffffff;
 }
+
+@media screen and (max-width: 721px) {
+  .quote {
+    line-height: 1.25;
+  }
+}

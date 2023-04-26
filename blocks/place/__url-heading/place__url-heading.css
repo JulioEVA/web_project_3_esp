@@ -12,6 +12,17 @@
 
   letter-spacing: 0.12em;
   text-transform: uppercase;
-
+  transition: color 0.5s;
   color: #aaaaaa;
+}
+
+.place__url-heading:hover {
+  color: #8d8d8d;
+}
+
+@media screen and (max-width: 721px) {
+  .place__url-heading {
+    max-width: 245px;
+    line-height: 14.52px;
+  }
 }

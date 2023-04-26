@@ -4,8 +4,9 @@
   padding-right: 0;
   white-space: nowrap;
 }
-@media screen and (max-width: 986px) and (min-width: 320px) {
+@media screen and (max-width: 986px) {
   .place__title_size_l {
     padding-bottom: 2px;
+    padding-top: 36px;
   }
 }

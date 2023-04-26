@@ -1,3 +1,9 @@
 .place_size_l {
-  max-height: 1099px;
+  max-height: 1008px;
+}
+
+@media screen and (max-width: 721px) {
+  .place_size_l {
+    max-height: max-content;
+  }
 }

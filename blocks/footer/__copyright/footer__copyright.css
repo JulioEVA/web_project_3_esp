@@ -7,7 +7,12 @@
   font-size: 14px;
   line-height: 1.14;
 
-  text-align: right;
-
   color: #ffffff;
+}
+
+@media screen and (max-width: 721px) {
+  .footer__copyright {
+    padding: 64px auto 24px;
+    line-height: 14px;
+  }
 }
