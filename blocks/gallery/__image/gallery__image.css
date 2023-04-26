@@ -1,11 +1,11 @@
-@media screen and (max-width: 1314px) and (min-width: 320px) {
+@media screen and (max-width: 1314px) {
   .gallery__image {
     width: 352px;
     height: 264px;
   }
 }
 
-@media screen and (max-width: 721px) {
+@media screen and (max-width: 766px) {
   .gallery__image {
     width: 288px;
     height: 216px;

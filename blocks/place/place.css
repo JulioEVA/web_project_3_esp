@@ -16,7 +16,7 @@
     max-height: 685px;
   }
 }
-@media screen and (max-width: 721px) {
+@media screen and (max-width: 766px) {
   .place {
     max-height: max-content;
     flex-direction: column-reverse;

@@ -10,3 +10,10 @@
     padding-top: 36px;
   }
 }
+
+@-moz-document url-prefix() {
+  .place__title_size_l {
+    white-space: normal;
+    display: flex;
+  }
+}
