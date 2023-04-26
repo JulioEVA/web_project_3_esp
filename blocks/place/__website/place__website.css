@@ -3,7 +3,7 @@
   padding-bottom: 48px;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .place__website {
     padding-top: 64px;
     padding-bottom: 21px;

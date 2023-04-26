@@ -7,7 +7,7 @@
   align-content: space-evenly;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .texts {
     max-width: 352px;
     min-height: 512px;

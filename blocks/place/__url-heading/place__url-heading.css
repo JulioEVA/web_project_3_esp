@@ -1,6 +1,5 @@
 .place__url-heading {
   margin: 0;
-  padding-bottom: 8px;
   max-width: 58px;
   text-decoration: none;
 
@@ -20,9 +19,14 @@
   color: #8d8d8d;
 }
 
+@media screen and (max-width: 1183px) {
+  .place__url-heading {
+    line-height: 14.52px;
+  }
+}
+
 @media screen and (max-width: 766px) {
   .place__url-heading {
     max-width: 245px;
-    line-height: 14.52px;
   }
 }

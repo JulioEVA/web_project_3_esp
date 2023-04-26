@@ -2,7 +2,7 @@
   min-height: 748px;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .texts_size_l {
     min-height: 768px;
   }

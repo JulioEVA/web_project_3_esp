@@ -2,18 +2,23 @@
   display: inline-flex;
   padding-bottom: 17px;
   padding-right: 0;
-  white-space: nowrap;
+  word-break: break-all;
+  max-width: 500px;
+  font-size: 67px;
 }
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .place__title_size_l {
     padding-bottom: 2px;
     padding-top: 36px;
+    max-width: 324px;
+    font-size: 42px;
   }
 }
 
-@-moz-document url-prefix() {
-  .place__title_size_l {
-    white-space: normal;
-    display: flex;
+@media screen and (max-width: 766px) {
+  .place__title {
+    max-width: 248px;
+    font-size: 32px;
+    order: 3;
   }
 }

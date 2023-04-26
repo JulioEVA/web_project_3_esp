@@ -4,7 +4,7 @@
   font-family: "Inter", Arial, sans-serif;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .page {
     max-width: 750px;
     display: flex;

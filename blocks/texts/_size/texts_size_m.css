@@ -2,7 +2,7 @@
   min-height: 535px;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .texts_size_m {
     min-height: 553px;
     align-content: space-between;

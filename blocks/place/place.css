@@ -8,12 +8,12 @@
   flex-wrap: wrap;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .place {
     max-width: 720px;
     margin: 0 auto;
     min-height: 590px;
-    max-height: 685px;
+    max-height: 691px;
   }
 }
 @media screen and (max-width: 766px) {

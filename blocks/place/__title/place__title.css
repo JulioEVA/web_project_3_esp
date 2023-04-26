@@ -11,7 +11,7 @@
   color: #ffffff;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .place__title {
     max-width: 340px;
     padding-top: 52px;

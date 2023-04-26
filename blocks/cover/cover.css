@@ -6,7 +6,7 @@
   background-position: center;
 }
 
-@media screen and (max-width: 986px) {
+@media screen and (max-width: 1183px) {
   .cover {
     width: 760px;
     height: 746px;
@@ -15,7 +15,7 @@
 
 @media screen and (max-width: 766px) {
   .cover {
-    width: 321px;
+    width: 320px;
     height: 254px;
   }
 }

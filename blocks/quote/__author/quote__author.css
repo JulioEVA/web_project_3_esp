@@ -12,9 +12,14 @@
   color: #ffffff;
 }
 
+@media screen and (max-width: 1183px) {
+  .quote__author {
+    align-self: flex-end;
+  }
+}
+
 @media screen and (max-width: 766px) {
   .quote__author {
     max-width: 288px;
-    align-self: flex-end;
   }
 }

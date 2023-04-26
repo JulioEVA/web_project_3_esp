@@ -11,6 +11,11 @@
   color: #ffffff;
 }
 
+@media screen and (max-width: 1183px) {
+  .place__artist {
+    padding-top: 8px;
+  }
+}
 @media screen and (max-width: 766px) {
   .place__artist {
     max-width: 288px;
