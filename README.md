@@ -1,19 +1,30 @@
 # Project 3: De patria a patria
 ### Descripción general    
 * Introducción  
-* Figma  
-* Imágenes  
+* Enlaces
+
   
 **Introducción**    
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum; Así como mi ciudad natal: Huatabampo, Sonora. Donde me crié la mayor parte de mi vida.
+
+El proyecto consiste de una página web responsiva pensada para 3 diferentes resoluciones; 1280p, 768p, 320p.
+
+**Tecnologías y Técnicas**
+
+Este proyecto se creó utilizando las siguientes tecnologías y técnicas:
   
-**Figma**  
+  * HTML
+  * CSS
+  * Flexbox
+  * Grid
+  * Media queries
+
+**Enlaces**  
   
 * [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
+
+* [Enlace a la página web](https://julioeva.github.io/web_project_3_esp/)
   
-**Imágenes**  
-  
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
-  
-¡Mucha suerte y que te lo pases bien! 
+
+
