@@ -5,7 +5,7 @@
 
 ### Introduction
 
-This is a project that showcases the hometowns of some Practicum employees, as well as my own hometown: Huatabampo, Sonora. This is where I spent most of my life growing up.
+This is a project that showcases the hometowns of some TripleTen employees, as well as my own hometown: Huatabampo, Sonora. This is where I spent most of my life growing up.
 The project consists of a responsive webpage designed for three different resolutions: 1280p, 768p, and 320p.
 
 ### Technologies and Techniques
