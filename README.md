@@ -1,30 +1,23 @@
-# Project 3: De patria a patria
-### Descripción general    
-* Introducción  
-* Enlaces
+# Project 3: De Patria a Patria
+## Overview
+- Introduction
+- Links
 
-  
-**Introducción**    
-  
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum; Así como mi ciudad natal: Huatabampo, Sonora. Donde me crié la mayor parte de mi vida.
+### Introduction
 
-El proyecto consiste de una página web responsiva pensada para 3 diferentes resoluciones; 1280p, 768p, 320p.
+This is a project that showcases the hometowns of some Practicum employees, as well as my own hometown: Huatabampo, Sonora. This is where I spent most of my life growing up.
+The project consists of a responsive webpage designed for three different resolutions: 1280p, 768p, and 320p.
 
-**Tecnologías y Técnicas**
+### Technologies and Techniques
 
-Este proyecto se creó utilizando las siguientes tecnologías y técnicas:
-  
-  * HTML
-  * CSS
-  * Flexbox
-  * Grid
-  * Media queries
+This project was created using the following technologies and techniques:
+- HTML
+- CSS
+- Flexbox
+- Grid
+- Media queries
 
-**Enlaces**  
-  
-* [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
+### Links
 
-* [Enlace a la página web](https://julioeva.github.io/web_project_3_esp/)
-  
-
-
+- [Link to the project on Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)
+- [Link to the webpage](https://julioeva.github.io/web_project_3_esp/)
